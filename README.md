@@ -43,7 +43,7 @@ Para este grupo de variables se solicita el siguiente trabajo:
 ### Boxplots:
 
 ![URL boxplots 1](Gráficas/BoxplotTimevsAño.png)
-![URL boxplots 1](Gráficas/BoxplotPuntuacionvsAño.png)
+![URL boxplots 1](Gráficas/BoxplotPuntuacionVsAño.png)
 ![URL boxplots 1](Gráficas/BoxplotPresupuestovsAño.png)
 ![URL boxplots 1](Gráficas/boxplotRecaudacionvsAño.png)
 
