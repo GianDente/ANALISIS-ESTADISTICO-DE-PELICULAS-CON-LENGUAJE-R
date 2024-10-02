@@ -42,16 +42,16 @@ Para este grupo de variables se solicita el siguiente trabajo:
 
 ### Boxplots:
 
-![URL boxplots 1](Gráficas/Boxplot TimevsAño.png)
-![URL boxplots 1](Gráficas/Boxplot PuntuacionvsAño.png)
-![URL boxplots 1](Gráficas/Boxplot PresupuestovsAño.png)
-![URL boxplots 1](Gráficas/boxplot RecaudacionvsAño.png)
+![URL boxplots 1](Gráficas/BoxplotTimevsAño.png)
+![URL boxplots 1](Gráficas/BoxplotPuntuacionvsAño.png)
+![URL boxplots 1](Gráficas/BoxplotPresupuestovsAño.png)
+![URL boxplots 1](Gráficas/boxplotRecaudacionvsAño.png)
 
 ### Gráficos residuales:
 
-![URL residual 1](Gráficas/grafico residuales modelo01.png)
-![URL residual 2](Gráficas/grafico residuales modelo02.png)
+![URL residual 1](Gráficas/graficoresidualesmodelo01.png)
+![URL residual 2](Gráficas/graficoresidualesmodelo02.png)
 
 ### Gráfico de dispersión:
 
-![URL dispersion](Gráficas/grafico de dispersion.png)
+![URL dispersion](Gráficas/graficodedispersion.png)
