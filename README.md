@@ -28,3 +28,30 @@ Para este grupo de variables se solicita el siguiente trabajo:
 
 - Lenguaje utilizado: *```R```*
 - Proyecto realizado en la materia: *```Estadística para ingeniería```*
+
+### Gráficas:
+
+![URL grafica 1](Gráficas/Rplot.png)
+![URL grafica 2](Gráficas/Rplot01.png)
+![URL grafica 3](Gráficas/Rplot02.png)
+![URL grafica 4](Gráficas/Rplot03.png)
+![URL grafica 5](Gráficas/Rplot04.png)
+![URL grafica 6](Gráficas/Rplot05.png)
+![URL grafica 7](Gráficas/Rplot06.png)
+![URL grafica 8](Gráficas/Rplot07.png)
+
+### Boxplots:
+
+![URL boxplots 1](Gráficas/Boxplot TimevsAño.png)
+![URL boxplots 1](Gráficas/Boxplot PuntuacionvsAño.png)
+![URL boxplots 1](Gráficas/Boxplot PresupuestovsAño.png)
+![URL boxplots 1](Gráficas/boxplot RecaudacionvsAño.png)
+
+### Gráficos residuales:
+
+![URL residual 1](Gráficas/grafico residuales modelo01.png)
+![URL residual 2](Gráficas/grafico residuales modelo02.png)
+
+### Gráfico de dispersión:
+
+![URL dispersion](Gráficas/grafico de dispersion.png)
